@@ -53,7 +53,7 @@
   "devDependencies": {
     "@babel/core": "^7.6.3",
     "@babel/plugin-transform-runtime": "^7.6.2",
-    "@babel/polyfill": "^7.0.0",
+    "@babel/polyfill": "^7.6.0",
     "@babel/preset-env": "^7.0.0",
     "@babel/runtime": "^7.0.0",
     "@jesses/circle-github-bot": "^2.1.0",
